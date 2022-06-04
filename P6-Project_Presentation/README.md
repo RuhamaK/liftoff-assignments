@@ -8,3 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[Ingi's Microgreens.pdf](https://github.com/RuhamaK/liftoff-assignments/files/8837049/Ingi.s.Microgreens.pdf)
